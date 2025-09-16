@@ -2,7 +2,7 @@
 <summary><div align="center"><h2>💫 About Me:</h2></div></summary>
 <div align="center">
 <p>
- Student
+ Student<br>
 🔭 I’m currently working on 2d Animated Video Creation<br>
 🌱 I’m currently learning After Effects, Premiere Pro & Audition<br>
 ⚡ Fun fact.. I like cats :)
