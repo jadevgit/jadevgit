@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary><div align="center"><h2>💫 About Me:</h2></div></summary>
 <div align="center">
 <p>
