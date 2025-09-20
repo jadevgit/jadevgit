@@ -50,5 +50,5 @@
 
 </div>
 thank you for taking the time to read through my profile :D <br>
-![hello-neighbor-hello-neighbor-meme](https://github.com/user-attachments/assets/64d3b055-482e-4a1e-8d03-8aae76dd097f)
+
 
