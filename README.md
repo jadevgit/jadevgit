@@ -49,6 +49,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-*thank you for taking the time to read through my profile :D*
-![consider smashing like?](https://github.com/user-attachments/assets/0aa4372c-9901-46f2-806f-2064f3fc4e52)
+thank you for taking the time to read through my profile :D
+![consider smashing like?](https://tenor.com/ecyt3LQTQA5.gif)
+
 
