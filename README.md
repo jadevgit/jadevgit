@@ -49,7 +49,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-thank you for taking the time to read through my profile :D
-![consider smashing like?](https://tenor.com/ecyt3LQTQA5.gif)
-
+thank you for taking the time to read through my profile :D <br>
+![hello-neighbor-hello-neighbor-meme](https://github.com/user-attachments/assets/64d3b055-482e-4a1e-8d03-8aae76dd097f)
 
