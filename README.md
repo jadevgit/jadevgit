@@ -48,7 +48,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+thank you for taking the time to read through my profile :D
 </div>
-thank you for taking the time to read through my profile :D <br>
 
 
