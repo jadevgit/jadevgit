@@ -63,20 +63,6 @@ I build software. Currently putting Python knowledge into a book that actually m
 
 ---
 
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jadevgit&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jadevgit&bg_color=ffffff&color=57606a&line=0969da&point=24292f&area=true&area_color=ddf4ff&hide_border=true">
-  <img alt="Jack's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jadevgit&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true">
-</picture>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
