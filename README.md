@@ -67,29 +67,10 @@ I build software. Currently putting Python knowledge into a book that actually m
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Follow_@jadevcopeapp-0d1117?style=for-the-badge&logo=x&logoColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Follow_@jadevcopeapp-ffffff?style=for-the-badge&logo=x&logoColor=000000">
-  <img alt="Twitter / X" src="https://img.shields.io/badge/Follow_@jadevcopeapp-0d1117?style=for-the-badge&logo=x&logoColor=ffffff">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jacktolan.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jacktolan.com-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000">
-  <img alt="Website" src="https://img.shields.io/badge/jacktolan.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffffff">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335">
-  <img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</picture>
+[![Twitter / X](https://img.shields.io/badge/Follow_@jadevcopeapp-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/jadevcopeapp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jack-tolan-b25699388/)
+[![Website](https://img.shields.io/badge/jacktolan.com-4A4A4A?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://jacktolan.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:him@jacktolan.com)
 
 </div>
 
